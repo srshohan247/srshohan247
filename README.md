@@ -1,8 +1,8 @@
 ### Hi there, I'm Siddikur Rahman Shohan - aka👋
 
-[![Website](https://img.shields.io/website?label=srshohan.com&style=for-the-badge&url=https://srshohan247.github.io/)](https://srshohan247.github.io/)
+[![Website](https://img.shields.io/website?label=shahinsheikh.com&style=for-the-badge&url=https://siddikurrahmanshohan.github.io/)](https://siddikurrahmanshohan.github.io/)
 
-## I'm a Software QA Engineer, Researcher, and Learner!!
+## I'm a Software QA Engineer, Researcher and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -14,10 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -35,10 +33,8 @@
 
 
 
-
 </br>
 </br>
----
 
-[website]: https://srshohan247.github.io/
+[website]: https://sissikurrahmanshohan.github.io/
 [linkedin]: https://www.linkedin.com/in/siddik25/
