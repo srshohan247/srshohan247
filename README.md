@@ -1,6 +1,6 @@
 ### Hi there, I'm Siddikur Rahman Shohan - aka👋
 
-[![Website](https://img.shields.io/website?label=shahinsheikh.com&style=for-the-badge&url=https://siddikurrahmanshohan.github.io/)](https://siddikurrahmanshohan.github.io/)
+[![Website](https://img.shields.io/website?label=srshohan.com&style=for-the-badge&url=https://siddikurrahmanshohan.github.io/)](https://srshohan247.github.io/)
 
 ## I'm a Software QA Engineer, Researcher and Learner!!
 
@@ -36,5 +36,5 @@
 </br>
 </br>
 
-[website]: https://sissikurrahmanshohan.github.io/
+[website]: https://srshohan247.github.io/
 [linkedin]: https://www.linkedin.com/in/siddik25/
