@@ -1,4 +1,4 @@
-### Hi there, I'm Siddikur Rahman Shohan - aka👋
+### Hi there, I'm Siddikur Rahman Shohan - aka Shohan👋
 
 [![Website](https://img.shields.io/website?label=srshohan.com&style=for-the-badge&url=https://siddikurrahmanshohan.github.io/)](https://srshohan247.github.io/)
 
